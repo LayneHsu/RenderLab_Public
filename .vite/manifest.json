@@ -1,0 +1,23 @@
+{
+  "index.html": {
+    "file": "assets/index-CilpeciY.js",
+    "name": "index",
+    "src": "index.html",
+    "isEntry": true,
+    "dynamicImports": [
+      "src/demos/three/pbr-material/PbrMaterialDemo.tsx"
+    ],
+    "css": [
+      "assets/index-B1EwUCCb.css"
+    ]
+  },
+  "src/demos/three/pbr-material/PbrMaterialDemo.tsx": {
+    "file": "assets/PbrMaterialDemo-SN81BoHt.js",
+    "name": "PbrMaterialDemo",
+    "src": "src/demos/three/pbr-material/PbrMaterialDemo.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html"
+    ]
+  }
+}
